@@ -1,0 +1,11 @@
+customer_id,occupation,annual_income,pep_flag
+1,Engineer,7000000,0
+2,Teacher,6000000,0
+3,Trader,12000000,0
+4,Consultant,15000000,1
+5,Business Owner,25000000,0
+6,Engineer,8000000,0
+7,Importer,18000000,1
+8,Sales,5500000,0
+9,Designer,6500000,0
+10,Investor,30000000,1

@@ -1,0 +1,11 @@
+customer_id,customer_name,country,risk_level
+1,Tanaka,Japan,LOW
+2,Suzuki,Japan,LOW
+3,Sato,Japan,MEDIUM
+4,Yamada,Japan,HIGH
+5,Ito,Singapore,HIGH
+6,Kobayashi,Japan,LOW
+7,Nakamura,UAE,HIGH
+8,Kato,Japan,MEDIUM
+9,Yoshida,Japan,LOW
+10,Abe,Hong Kong,HIGH
