@@ -1,0 +1,4 @@
+alert_type,threshold_type,threshold_value,description
+HIGH_VALUE_TRANSFER,AMOUNT,1000000,100万円以上の送金
+MULTIPLE_TRANSFERS,COUNT,3,同日3回以上の送金
+HIGH_RISK_COUNTRY,COUNTRY,0,高リスク国への送金
